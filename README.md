@@ -6,8 +6,6 @@ This is the last exercise for you to experiment with juicy features in our brick
 
 The expectations for this exercise are that you will
 
- - [v ] Fork and clone this repository
- - [ ] Import the project into Godot
  - [ ] Add shaders to the main menu background, the fever bar, and the game backgound (when in fever mode)
  - [ ] Animate the game background (cycle through colors)
  - [ ] Add a face to the paddle that reacts to the ball
